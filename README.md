@@ -14,12 +14,12 @@
 
 <hr>
 
-## Notebook Teste - AtvTeste
+## Notebook ATIVIDADES
 
 # AtvTeste 
-* [AtvTeste](https://github.com/sifontesj23/POOGit/tree/main/AvtTeste/notebook) - template para a entrega das atividades individuais.
+  * [AtvTeste](https://github.com/sifontesj23/POOGit/tree/main/AvtTeste/notebook) 
 
 #Atv01
-*[Atv01](https://github.com/sifontesj23/POOGit/tree/main/atv01/Notebook) 
+  *[Atv01](https://github.com/sifontesj23/POOGit/tree/main/atv01/Notebook) 
 
 
