@@ -30,5 +30,5 @@
 
 #Atv05   [Atv05](https://github.com/sifontesj23/POOGit/blob/main/atv05/Notebook/Atv05.ipynb)
 
-#Atv06   [Atv06]()
+#Atv06   [Atv06](https://github.com/sifontesj23/POOGit/blob/main/atv06/Notebook/Atv06%20.ipynb)
 
