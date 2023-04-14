@@ -22,13 +22,13 @@
 #Atv01
   *[Atv01](https://github.com/sifontesj23/POOGit/tree/main/atv01/Notebook)
   
-#Atv02   [Atv02]()
+#Atv02   [Atv02](https://github.com/sifontesj23/POOGit/tree/main/atv02/Notebook)
 
-#Atv03   [Atv03]
+#Atv03   [Atv03]()
 
-#Atv04   [Atv04]
+#Atv04   [Atv04]()
 
-#Atv05   [Atv05]
+#Atv05   [Atv05]()
 
-#Atv06   [Atv06]
+#Atv06   [Atv06]()
 
