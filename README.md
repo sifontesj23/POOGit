@@ -10,7 +10,7 @@
 * `Jesus Alberto Sifontes` 
 
 # Curso
-* `TADS`
+* IFPR `TADS`
 
 
 ## Notebook ATIVIDADES
@@ -24,7 +24,6 @@
 #Atv02   [Atv02](https://github.com/sifontesj23/POOGit/tree/main/atv02/Notebook/Atv02.ipynb)
 
 #Atv03 [Atv0](https://github.com/sifontesj23/POOGit/blob/main/atv03/Notebook/Atv03.ipynb)
-#Atv03   [Atv03]()
 
 #Atv04   [Atv04](https://github.com/sifontesj23/POOGit/blob/main/atv04/Notebook/Atv04.ipynb)
 
