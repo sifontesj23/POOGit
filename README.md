@@ -1,10 +1,3 @@
-﻿# Template para Entrega das Atividades Individuais
-
-# Estrutura de Arquivos e Pastas
-
-
-
-# Modelo para Apresentação do Aluno
 
 # Aluno
 * `Jesus Alberto Sifontes` 
